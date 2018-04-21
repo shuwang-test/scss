@@ -1,0 +1,8 @@
+$color: #007bff;
+.btn {
+	color: $color;
+}
+.btn:hover {
+	color: darken($color, 10%);
+	font-size: 20px;
+}
